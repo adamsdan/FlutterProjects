@@ -1,6 +1,6 @@
 # square_class
 
-A new Flutter application.
+Flutter application to learn how to use curl requests.
 
 ## Getting Started
 
