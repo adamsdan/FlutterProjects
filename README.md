@@ -1,4 +1,4 @@
-# square_class
+# Square API class project
 
 Flutter application to learn how to use curl requests.
 
